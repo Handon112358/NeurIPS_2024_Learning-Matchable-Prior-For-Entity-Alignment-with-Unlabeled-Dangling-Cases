@@ -351,6 +351,19 @@ The datasets are from [GCN-Align](https://github.com/1049451037/GCN-Align), [JAP
 
 We refer to the codes of these repos: [keras-gat](https://github.com/danielegrattarola/keras-gat), [GCN-Align](https://github.com/1049451037/GCN-Align) and [Dual-AMN](https://github.com/MaoXinn/Dual-AMN). Thanks for their great contributions!
 
+# Citation
+
+```
+@article{yin2024lambda,
+  title={Lambda: Learning matchable prior for entity alignment with unlabeled dangling cases},
+  author={Yin, Hang and Xiang, Liyao and Ding, Dong and He, Yuheng and Wu, Yihan and Chu, Pengzhi and Wang, Xinbing and Zhou, Chenghu},
+  journal={Advances in Neural Information Processing Systems},
+  volume={37},
+  pages={78964--78995},
+  year={2024}
+}
+```
+
 # Environment
 
 1. Python = 3.6
